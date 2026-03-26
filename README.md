@@ -1,7 +1,7 @@
 # Alex Anokhin
 
 **Independent Researcher · LLM Systems Engineer**  
-Heilbronn, Germany · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin)
+Heilbronn, Germany · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin) · [olanokhin.com](https://olanokhin.com)
 
 ---
 
