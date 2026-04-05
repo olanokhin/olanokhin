@@ -1,7 +1,6 @@
 # Alex Anokhin
-
-**Independent Researcher · LLM Systems Engineer**  
-Heilbronn, Germany · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin) · [olanokhin.com](https://olanokhin.com)
+**LLM Systems Engineer · Independent Researcher**  
+Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin) · [olanokhin.com](https://olanokhin.com)
 
 ---
 
@@ -9,27 +8,26 @@ Heilbronn, Germany · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [Link
 
 | Project | Description | Status |
 |---|---|---|
-| [**ANV Protocol**](https://github.com/olanokhin/anv-protocol) | Cryptographic nature verification for internet protocols — the "A" layer for TLS, MLS, QUIC | IETF Draft-00 · Concept v0.3 |
-| [**BA² Framework**](https://github.com/olanokhin/ba2-framework) | Biomimetic recursive agent architecture for reliable long-horizon execution | PoC in progress |
-| [**RCI**](https://github.com/olanokhin/rci-inference) | Recursive Convergent Inference — dynamic MoE with convergence-gated stopping | Paper + Colab ready |
-| [**CPAR**](https://github.com/olanokhin/cpar-framework) | N independent AI reviewers with distinct cognitive profiles conduct blind iterative peer review until consensus convergence | Concept |
+| [**CPAR**](https://github.com/olanokhin/cpar-framework) | Cross-provider blind peer review — prevents single-model bias and hallucination. Outperformed single-model baseline 15/15 criteria in blind A/B evaluation (GLM-5 judge) | Working demo · arXiv preprint |
+| [**RCI**](https://github.com/olanokhin/rci-inference) | Recursive Convergent Inference — dynamic MoE with convergence-gated stopping. Unexpected finding: model-relative complexity diverges from human difficulty labels | Paper + Colab ready · arXiv preprint |
+| [**ANV Protocol**](https://github.com/olanokhin/anv-protocol) | Cryptographic nature verification for internet protocols — the "A" layer for TLS, MLS, QUIC | IETF Draft-00 |
 
 ---
 
 ## Engineering
 
-**AI & LLM:** RAG · Graph RAG · Autonomous Agents · MCP · Document Intelligence  
-**Stack:** Python · TypeScript · C/C++ · FastAPI · ReactJS · Next.js  
-**Infra:** Azure AI Foundry · Docker · Linux · Git/CI-CD
+**AI & LLM:** RAG · Hybrid RAG · Graph RAG · Autonomous Agents (ReAct, multi-agent) · MCP · Transformers · LLM/RAG Evaluation  
+**Stack:** Python · TypeScript/JS · C/C++ · Kotlin · FastAPI · Streamlit · Gradio · ReactJS  
+**Infra:** Docker · Linux · Azure · Azure AI Foundry · Git/CI-CD
 
 ---
 
 ## Selected Work
 
-- 🔬 **Wire Germany** — Architected AI note-taking microservice adopted into product roadmap; 4× faster voice transcription via concurrent Whisper processing
-- 🏗️ **Exyte** — Hybrid RAG system with graph retrieval on Azure for complex construction documentation
-- 🥇 **3× Hackathon winner** — Future City (HHN), Make.com (42), Wire × Schwarz IT
-- 🎓 **42 Heilbronn** — Founded AI Club (70+ members); Graph RAG agent on Notion wiki
+- 🔬 **Wire Germany** — Proved feasibility of AI note-taking in a single day, pitched to 100+ people including CTO — greenlit for production. Cut meeting review time ~4× as sole AI engineer in cross-functional implementation.
+- 🏗️ **Exyte** — Reduced LLM calls ~8× (1M → ~115k rows) through context engineering. Built hybrid RAG system replacing manual SharePoint/Excel search for prequalification questionnaires.
+- 🥇 **3× Hackathon winner** — Future City (HHN & 42), Make.com (42 Heilbronn), Wire × Schwarz IT
+- 🎓 **42 Heilbronn** — Founded AI Club (78 members); built and deployed Hybrid RAG FAQ agent on Notion wiki
 
 ---
 
@@ -39,4 +37,11 @@ Protocol design · Cognitive architectures · Real-time AI systems · Live music
 
 ---
 
-*Building infrastructure for the AI era — one letter at a time.*
+*Building intelligence. Expanding humanity.*
+
+---
+
+## Let's talk
+
+Open to senior/staff AI engineer roles at AI-native companies — remote, English-first.  
+[olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin)
