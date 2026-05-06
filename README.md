@@ -11,6 +11,7 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 | [**CPAR**](https://github.com/olanokhin/cpar-framework) | Cross-provider blind peer review — prevents single-model bias and hallucination. Outperformed single-model baseline 15/15 criteria in blind A/B evaluation (GLM-5 judge) | Working demo · arXiv preprint |
 | [**RCI**](https://github.com/olanokhin/rci-inference) | Recursive Convergent Inference — dynamic MoE with convergence-gated stopping. Unexpected finding: model-relative complexity diverges from human difficulty labels | Paper + Colab ready · arXiv preprint |
 | [**ANV Protocol**](https://github.com/olanokhin/anv-protocol) | Cryptographic nature verification for internet protocols — the "A" layer for TLS, MLS, QUIC | IETF Draft-00 |
+| [**TurboQuant Benchmark**](https://github.com/olanokhin/hnsw-turboquant-glove) | Hadamard + Lloyd-Max compression on GloVe-200; Recall@10 vs compression across 1–8 bits; 8-bit sweet spot: 3.1× smaller, −0.74pp recall | HF Space · GitHub |
 
 ---
 
