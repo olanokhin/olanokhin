@@ -27,8 +27,8 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 
 ## Selected Work
 
-- 🔬 **Wire Germany** — Proved feasibility of AI note-taking in a single day, pitched to 100+ people including CTO — greenlit for production. Cut meeting review time ~4× as sole AI engineer in cross-functional implementation.
 - 🏗️ **Exyte** — Reduced LLM calls ~8× (1M → ~115k rows) through context engineering. Built hybrid RAG system replacing manual SharePoint/Excel search for prequalification questionnaires.
+- 🔬 **Wire Germany** — Proved feasibility of AI note-taking in a single day, pitched to 100+ people including CTO — greenlit for production. Cut meeting review time ~4× as sole AI engineer in cross-functional implementation.
 - 🥇 **3× Hackathon winner** — Future City (HHN & 42), Make.com (42 Heilbronn), Wire × Schwarz IT
 - 🎓 **42 Heilbronn** — Founded AI Club (78 members); built and deployed Hybrid RAG FAQ agent on Notion wiki
 
