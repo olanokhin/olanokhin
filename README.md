@@ -8,10 +8,12 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 
 | Project | Description | Status |
 |---|---|---|
-| [**CPAR**](https://github.com/olanokhin/cpar-framework) | Cross-provider blind peer review — prevents single-model bias and hallucination. Outperformed single-model baseline 15/15 criteria in blind A/B evaluation (GLM-5 judge) | Working demo · arXiv preprint |
+| [**Bitplane-ANN**](https://github.com/olanokhin/bitplane-ann) | Memory-efficient progressive vector search: stores embeddings as compact 8-bit codes and filters candidates before reranking. Reached 99.8–99.9% Recall@10 on 1M-vector text and vision benchmarks with ~4× smaller storage than float32 | Zenodo artifact · Paper |
+| [**Agent Security Skill**](https://github.com/olanokhin/agent-security-skill) | Portable OWASP-aligned security review skill for coding agents. Turns OWASP AI security guidance into active Claude Code/Codex behavior, covering 33 review categories across LLM, RAG, MCP, tool, and agentic systems | Native Claude/Codex skills · Benchmark in progress |
+| [**CPAR**](https://github.com/olanokhin/cpar-framework) | Cross-provider blind peer review — prevents single-model bias and hallucination. Outperformed single-model baseline 15/15 criteria in blind A/B evaluation (GLM-5 judge) | Working demo |
 | [**ATA Protocol**](https://github.com/olanokhin/ata-protocol) | Cryptographic Authorization Type Attestation for internet protocols — the "A" layer for TLS, MLS, QUIC | IETF Draft-00 |
 | [**TurboQuant Benchmark**](https://github.com/olanokhin/hnsw-turboquant-glove) | Hadamard + Lloyd-Max compression on GloVe-200; Recall@10 vs compression across 1–8 bits; 8-bit sweet spot: 3.1× smaller, −0.74pp recall | HF Space · GitHub |
-| [**RCI**](https://github.com/olanokhin/rci-inference) | Recursive Convergent Inference — dynamic MoE with convergence-gated stopping. Unexpected finding: model-relative complexity diverges from human difficulty labels | Paper + Colab ready · arXiv preprint |
+| [**RCI**](https://github.com/olanokhin/rci-inference) | Recursive Convergent Inference — dynamic MoE with convergence-gated stopping. Unexpected finding: model-relative complexity diverges from human difficulty labels | Paper + Colab ready |
 
 ---
 
