@@ -4,7 +4,7 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 
 ---
 
-## Research
+## Research & OpenSource
 
 | Project | Description | Status |
 |---|---|---|
