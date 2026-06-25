@@ -21,8 +21,8 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 ## Engineering
 
 **AI & LLM:** RAG · Hybrid RAG · Graph RAG · Autonomous Agents (ReAct, multi-agent) · MCP · A2A · Transformers · Google ADK · LangGraph · LangChain · LangFuse · LLM/RAG Evaluation  
-**Stack:** Python · TypeScript/JS · C/C++ · Kotlin · FastAPI · FastMCP · Streamlit · Gradio · ReactJS
-**Infra:** Docker · Linux · Azure · Azure AI Foundry · llama.cpp · GCP · Vertex · Git/CI-CD
+**Stack:** Python · TypeScript/JS · C/C++ · Kotlin · FastAPI · FastMCP · Streamlit · Gradio · ReactJS  
+**Infra:** Docker · Linux · Azure · Azure AI Foundry · llama.cpp · GCP · Vertex · Git/CI-CD  
 
 ---
 
