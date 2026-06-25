@@ -1,5 +1,5 @@
 # Alex Anokhin
-**LLM Systems Engineer · Independent Researcher**  
+**Founding / Forward-Deployed AI Engineer · Production RAG · Agentic Systems Security · Independent Researcher · EU-authorized**  
 Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin@gmail.com) · [LinkedIn](https://linkedin.com/in/olanokhin) · [olanokhin.com](https://olanokhin.com)
 
 ---
