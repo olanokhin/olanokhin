@@ -8,7 +8,7 @@ Heilbronn, Germany (Remote-first, CET) · [olanokhin@gmail.com](mailto:olanokhin
 
 | Project | Description | Status |
 |---|---|---|
-| [**OpenResearch-MCP**](https://github.com/olanokhin/openreserch-mcp) | Zero-auth research MCP server with 8 research tools (DuckDuckGo, GitHub, Hacker News, Stack Overflow, OpenAlex, arXiv, YouTube) requiring zero API keys. HTTP + stdio transport. Compatible with Claude, Cursor, OpenCode, Ollama stacks. | Pypi · MCP Registry |
+| [**OpenResearch-MCP**](https://github.com/olanokhin/openreaserch-mcp) | Zero-auth research MCP server with 8 research tools (DuckDuckGo, GitHub, Hacker News, Stack Overflow, OpenAlex, arXiv, YouTube) requiring zero API keys. HTTP + stdio transport. Compatible with Claude, Cursor, OpenCode, Ollama stacks. | Pypi · MCP Registry |
 | [**Bitplane-ANN**](https://github.com/olanokhin/bitplane-ann) | Memory-efficient progressive vector search: stores embeddings as compact 8-bit codes and filters candidates before reranking. Reached 99.8–99.9% Recall@10 on 1M-vector text and vision benchmarks with ~4× smaller storage than float32 | Zenodo artifact · Paper |
 | [**Agent Security Skill**](https://github.com/olanokhin/agent-security-skill) | Portable OWASP-aligned security review skill for coding agents. Turns OWASP AI security guidance into active Claude Code/Codex behavior, covering 33 review categories across LLM, RAG, MCP, tool, and agentic systems | Native Claude/Codex skills · Benchmark in progress |
 | [**CPAR**](https://github.com/olanokhin/cpar-framework) | Cross-provider blind peer review — prevents single-model bias and hallucination. Outperformed single-model baseline 15/15 criteria in blind A/B evaluation (GLM-5 judge) | Working demo |
